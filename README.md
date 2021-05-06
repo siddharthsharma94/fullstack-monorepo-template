@@ -2,7 +2,7 @@
 
 Over time i've realized I have an optimal way of deploying apps with a MicroServices Architecture.
 
-This monorepo deployment, serves to easily deploy and scaffold my apps.
+This deployment, serves to easily deploy and scaffold my apps. It will create individual repos for all my projects.
 
 My Stack uses `Vercel + Railway` with `Next JS + Strapi / Hasura`
 
